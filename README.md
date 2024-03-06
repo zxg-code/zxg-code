@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zxg-code/zxg-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
+</picture>
