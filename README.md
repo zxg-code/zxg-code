@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=journey">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=road_trip">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=road_trip">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=zxg-code&screen_effect=true&theme=road_trip">
 </picture>
